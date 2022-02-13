@@ -1,2 +1,1 @@
-# Proyecto-C27
-EL PÉNDULO DE NEWTON
+# NC27
